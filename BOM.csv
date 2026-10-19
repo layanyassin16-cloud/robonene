@@ -1,2 +1,3 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
+print,1,form labs,$57.89,$57.89,https://now.formlabs.com/order/cart
 Estimated total shipping,1,,,$0.00,
